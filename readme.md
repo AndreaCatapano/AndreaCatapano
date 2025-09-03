@@ -4,7 +4,7 @@ Benvenuto nel mio profilo GitHub!
 Qui condivido i miei progetti, esperimenti e contributi open source.  
 
 ## 🔧 Tecnologie
-- Python 🐍
+- Java
 - JavaScript ⚡
 - Git & GitHub  
 
