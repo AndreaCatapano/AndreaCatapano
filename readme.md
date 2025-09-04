@@ -72,4 +72,4 @@ It integrates with the **CoinGecko API** to display real-time cryptocurrency pri
 
 ## 🎮 Beyond Code
 - Passionate **video gamer**  
-- Avid **Magic: The Gathering** player  
+- **Magic: The Gathering** player  
