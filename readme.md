@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Andrea Catapano  
 
 I'm a **Full Stack Developer** from Naples 🇮🇹.  
-I love building complete web applications, from frontend to backend, following RESTful principles and CRUD operations.  
-Beyond programming, I’m a nerd who enjoys video games and Magic: The Gathering 🎮✨  
+I love designing and developing complete applications, from **monolithic architectures (MVC/MMVC)** to **service-oriented APIs**, always following REST principles and CRUD operations.  
+Beyond coding, I’m a nerd who enjoys video games and Magic: The Gathering 🎮✨  
 
 ---
 
@@ -14,6 +14,9 @@ Beyond programming, I’m a nerd who enjoys video games and Magic: The Gathering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-147EFB?style=for-the-badge&logo=apple&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### ⚙️ Backend
@@ -22,32 +25,47 @@ Beyond programming, I’m a nerd who enjoys video games and Magic: The Gathering
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+### 🛠️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ---
 
 ## 📌 What I Can Do
-- Develop **RESTful APIs** with **CRUD operations**  
-- Build **full stack web applications** with modern frameworks  
-- Handle **frontend-backend integration** using Axios, Express, and Spring  
-- Design **responsive and accessible UIs** with HTML, CSS, and React  
-- Implement **state management** in React applications  
-- Use **templating engines** like Thymeleaf with Spring Boot  
-- Create **scalable backend services** with Node.js and Express  
-- Work with **MVC architecture** and structured project design  
-- Debug and optimize applications for **performance and security**  
-- Collaborate in **team projects** using Git and GitHub  
+- Develop **RESTful APIs** with CRUD operations  
+- Build **full stack web applications** with both **monolithic** and **service-oriented** architectures  
+- Work with **MVC** and **MMVC** design patterns  
+- Integrate **frontend and backend** with Axios, Express, and Spring  
+- Design and manage **relational databases** with MySQL  
+- Implement **state management** and reusable components in React  
+- Create **responsive, accessible, and dynamic UIs** with HTML, CSS, and modern JS frameworks  
+- Use **templating engines** like Thymeleaf for server-side rendering  
+- Develop **scalable backend services** with Node.js and Express  
+- Implement **mobile applications** with SwiftUI, CoreData, and Combine  
+- Consume **external APIs** and integrate them into web/mobile applications  
+- Develop **2D/3D video games** using Unity and C#  
+- Collaborate in **team projects** with Git/GitHub, following clean code and version control best practices  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 [Project 1 – Full Stack App](https://github.com/yourusername/project1)
-A complete full stack web application with React frontend and Node.js/Express backend, featuring CRUD operations and RESTful API integration.
+### 🔹 [Monolithic App – Java + Spring + React][(https://github.com/AndreaCatapano/Stack-Final-Project-Full-Stack-Plant-Management-Application-Java-React-MySQL-)]
+A **monolithic full stack application** built with **Java and Spring** for the backend, implementing an **MVC architecture**.  
+The backend handles data and business logic, while a **React app (view-only)** consumes and displays the information.  
 
-### 🔹 [Project 2 – Spring Boot & Thymeleaf](https://github.com/yourusername/project2)
-A Java Spring Boot project using Thymeleaf as template engine, implementing authentication and data management features.
+### 🔹 [E-Shop – Node.js + React](https://github.com/raff-E12/fullstack-project-final)
+A complete **e-commerce platform** where the backend is developed with **Node.js and Express** to expose **RESTful APIs**.  
+These APIs are consumed by a **React frontend**, handling product browsing, shopping cart, and checkout functionalities.  
 
-### 🔹 [Project 3 – React API Client](https://github.com/yourusername/project3)
-A frontend React project that consumes external REST APIs using Axios, with search and filter functionalities.  
+### 🔹 [Crypto Tracker App – SwiftUI][(https://github.com/AndreaCatapano/SwiftulCrypto)]
+A **mobile application** built with **SwiftUI, Combine, and CoreData**.  
+It integrates with the **CoinGecko API** to display real-time cryptocurrency prices, allowing users to track and manage their favorite coins.  
 
 ---
 
