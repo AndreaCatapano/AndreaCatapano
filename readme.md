@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Andrea Catapano  
 
-I'm a **Full Stack Developer** from Naples 🇮🇹.  
-I love designing and developing complete applications, from **monolithic architectures (MVC/MMVC)** to **service-oriented APIs**, always following REST principles and CRUD operations.  
-Beyond coding, I’m a nerd who enjoys video games and Magic: The Gathering 🎮✨  
+I'm a **Full Stack Developer** from Naples 🇮🇹 with experience in building web, mobile, and game applications.  
+I enjoy working across the stack, from designing **monolithic and service-oriented architectures** to creating **engaging user interfaces** and **scalable backends**.  
+Beyond coding, I’m a nerd at heart who loves video games and Magic: The Gathering 🎮✨  
+
 
 ---
 
