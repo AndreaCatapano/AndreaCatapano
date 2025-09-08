@@ -56,15 +56,15 @@ Beyond coding, I’m a nerd at heart who loves video games and Magic: The Gather
 
 ## 🌟 Featured Projects
 
-### 🔹 [Monolithic App – Java + Spring + React](https://github.com/AndreaCatapano/Stack-Final-Project-Full-Stack-Plant-Management-Application-Java-React-MySQL-)
+### 🔹 [Monolithic App – Java + Spring + React](https://github.com/AndreaCatapano/plant-database)
 A **monolithic full stack application** built with **Java and Spring** for the backend, implementing an **MVC architecture**.  
 The backend handles data and business logic, while a **React app (view-only)** consumes and displays the information.  
 
-### 🔹 [E-Shop – Node.js + React](https://github.com/raff-E12/fullstack-project-final)
+### 🔹 [E-Shop – Node.js + React](https://github.com/AndreaCatapano/fashion-ecommerce)
 A complete **e-commerce platform** where the backend is developed with **Node.js and Express** to expose **RESTful APIs**.  
 These APIs are consumed by a **React frontend**, handling product browsing, shopping cart, and checkout functionalities.  
 
-### 🔹 [Crypto Tracker App – SwiftUI](https://github.com/AndreaCatapano/SwiftulCrypto)
+### 🔹 [Crypto Tracker App – SwiftUI](https://github.com/AndreaCatapano/crypto-tracker-ios)
 A **mobile application** built with **SwiftUI, Combine, and CoreData**.  
 It integrates with the **CoinGecko API** to display real-time cryptocurrency prices, allowing users to track and manage their favorite coins.  
 
